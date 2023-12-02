@@ -53,7 +53,8 @@ public class AttendanceServiceImpl
 		}).collect(Collectors.toList());
 		attendanceRepository.saveAll(excelDataList);
 	}
-	private String getCellStringValue(Cell cell) {
+	private String getCellStringValue(Cell cell)
+	{
 		CellType cellType = cell.getCellType();
 
 		if (cellType == CellType.STRING) {

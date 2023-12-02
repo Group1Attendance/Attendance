@@ -1,0 +1,5 @@
+package com.groupone.attendance.controller;
+
+public class AttendanceController {
+
+}

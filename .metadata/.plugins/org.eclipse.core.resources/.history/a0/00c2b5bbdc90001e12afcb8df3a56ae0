@@ -1,0 +1,5 @@
+package com.groupone.attendance.repository;
+
+public class AttendanceRepository {
+
+}

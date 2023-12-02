@@ -1,0 +1,5 @@
+package com.groupone.attendance.service.impl;
+
+public class AttendanceServiceImpl {
+
+}
